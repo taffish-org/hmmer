@@ -3,7 +3,8 @@
  (:author         "KaiyuanHan")
  (:version        "3.4")
  (:dependencies)
- (:functions      "alimask"
+ (:functions      "python3.12"
+                  "alimask"
                   "hmmalign"
                   "hmmbuild"
                   "hmmconvert"
