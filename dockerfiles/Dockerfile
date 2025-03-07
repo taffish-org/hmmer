@@ -1,4 +1,4 @@
-FROM docker.io/library/python:3.12
+FROM ghcr.io/taffish-org/python:3.13.2
 
 LABEL maintainer="taffish@163.com"
 

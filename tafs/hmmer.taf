@@ -27,5 +27,5 @@ ARGS
     <in>
         # input fasta file
 RUN
-    <container:taf-hmmer-v3.4:docker.io/taffish/hmmer:3.4>
+    <container:taf-hmmer-v3.4:ghcr.io/taffish-org/hmmer:3.4>
         ::*MAIN*::
